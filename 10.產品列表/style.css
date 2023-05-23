@@ -1,0 +1,149 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 948px;
+    margin: 0 auto;
+    display: flex;
+    padding: 4px;
+    gap: 20px;
+}
+
+.menu {
+    width: 30%;
+}
+
+.menu-item {
+    border: 1px solid #e7eeea;
+    text-align: center;
+}
+
+.menu-title {
+    font-size: 24px;
+    padding: 20px 0;
+    text-align: center;
+    color: #e7eeea;
+    background-color: #37523d;
+}
+
+.menu-item {
+    font-size: 24px;
+    padding: 20px 0;
+}
+
+.menu-item a {
+    color: #37523d;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #e7eeea;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.product-item {
+    width: 300px;
+    margin-bottom: 36px;
+}
+
+.product-item img {
+    display: block;
+}
+
+.product-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.product-title p {
+    font-size: 24px;
+    color: #37523d;
+    width: 184px;
+    text-align: center;
+    border: 1px solid #e7eeea;
+    padding: 20px 0;
+}
+
+.product-title span {
+    font-size: 20px;
+    color: #37523d;
+    width: 116px;
+    text-align: center;
+    border: 1px solid #e7eeea;
+    padding: 22px 0;
+}
+
+.product-title span::before {
+    content: "NT$ ";
+}
+
+.shoppingcart a {
+    font-size: 24px;
+    color: #37523d;
+    text-decoration: none;
+    text-align: center;
+    padding: 28px 90px;
+    background-color: #e7eeea;
+}
+
+.shoppingcart a:hover {
+    color: #e7eeea;
+    background-color: #37523d;
+}
