@@ -3,12 +3,10 @@
 作業網址：[Flex 修煉時光屋](https://rpg.hexschool.com/task/69/show)
 
 ## Table of contents
-- [hexschool-flex-task](#hexschool-flex-task)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [TA feedback](#ta-feedback)
+- [Overview](#overview)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [TA feedback](#ta-feedback)
 ## Overview
 - 第一次總共花費約 11 小時，3 小時完成大架構，8 小時進行 HTML、CSS 調整
 - 第二次總共花費約 0.5 小時，針對助教回饋修改
