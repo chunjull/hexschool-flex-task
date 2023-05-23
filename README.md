@@ -1,5 +1,7 @@
-# hexschool-flex-task
+# 六角學院「Flex 精神時光屋」Flex 修煉時光屋
+
 作業網址：[Flex 修煉時光屋](https://rpg.hexschool.com/task/69/show)
+
 ## Table of contents
 - [hexschool-flex-task](#hexschool-flex-task)
   - [Table of contents](#table-of-contents)
