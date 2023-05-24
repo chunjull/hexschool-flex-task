@@ -6,7 +6,7 @@
 - [Overview](#overview)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [TA feedback](#ta-feedback)
+  - [What I learned](#what-i-learned)
 ## Overview
 - 第一次總共花費約 11 小時，3 小時完成大架構，8 小時進行 HTML、CSS 調整
 - 第二次總共花費約 0.5 小時，針對助教回饋修改
@@ -18,7 +18,7 @@
 - CSS custom properties
 - Flexbox
 
-### TA feedback
+### What I learned
 關卡四：表頭表尾設計
 -  logo 建議使用圖片取代文字的方式
 
